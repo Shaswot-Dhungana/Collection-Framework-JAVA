@@ -1,0 +1,10 @@
+Data Structure :
+
+it is the way by which we can store the data in 
+efficient way.
+
+types of data structure :~
+
+1. Primitive DS.
+
+2. Non-Primitive DS.
